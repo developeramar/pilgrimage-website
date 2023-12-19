@@ -1,0 +1,44 @@
+# Pilgrimage Website
+
+This is a simple web application for a pilgrimage organization, featuring a webpage that displays upcoming events. The backend is implemented in Node.js with Express, and the frontend is built using HTML, CSS, and JavaScript.
+
+## Table of Contents
+- [File Structure](#file-structure)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## File Structure
+
+pilgrimage-website/
+|-- backend/
+| |-- server.js
+|-- frontend/
+| |-- index.html
+| |-- styles.css
+| |-- app.js
+|-- README.md
+
+Open your web browser and navigate to http://localhost:3000 to view the application.
+
+Features
+Display upcoming events on the webpage.
+User-friendly interface with responsive design.
+Click on an event to view more detailed information.
+Navigate back to the list of events.
+Technologies Used
+Backend: Node.js, Express
+Frontend: HTML, CSS, JavaScript
+
+Contributing
+If you'd like to contribute, please fork the repository and create a pull request. Feel free to open an issue if you have any suggestions or find any issues.
+
+License
+This project is licensed under the MIT License.
+
+https://github.com/developeramar/pilgrimage-website. 
